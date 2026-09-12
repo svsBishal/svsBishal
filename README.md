@@ -21,7 +21,7 @@
   <a href="https://github.com/svsBishal">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/bishal-sarma-41a9b128a/)">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
 </p>
