@@ -33,20 +33,25 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                       HARDWARE PROFILE                      ║
+║                       HARDWARE PROFILE                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  Role        : Digital Design / RTL Engineer                 ║
 ║  Focus       : ASIC • RTL • Computer Architecture            ║
 ║                                                              ║
 ║  HDL         : SystemVerilog • Verilog                       ║
-║  Languages   : C/C++ • Python                                ║
+║  Languages   : C/C++                                         ║
 ║                                                              ║
 ║  Architecture: RISC-V • Pipelining • Caches                  ║
-║  Interfaces  : AXI4-Lite • SPI • UART                        ║
+║  Interfaces  : AMBA AHB • APB • AXI/AXI4-Lite •              ║
+║                        SPI • UART • I2C                      ║
 ║  Verification: SystemVerilog • UVM • Reference Models        ║
 ║                                                              ║
-║  AI Hardware : CNN Accelerators • Systolic Arrays             ║
+║  AI Hardware : CNN Accelerators • Systolic Arrays            ║
 ║  Future      : Cryptographic & Specialized Accelerators      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+
+I build hardware from the RTL level upward — starting from microarchitecture and synthesizable SystemVerilog/Verilog, through verification, processor design, interconnects, and specialized accelerators.
+
+My primary interest is designing hardware that is not only functionally correct, but also architecturally efficient.
