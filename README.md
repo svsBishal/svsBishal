@@ -4,25 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D20,50:123D24,100:39FF14&height=220&section=header&text=BISHAL&fontSize=70&fontColor=39FF14&fontAlignY=38&desc=DIGITAL%20DESIGN%20%7C%20RTL%20%7C%20COMPUTER%20ARCHITECTURE&descAlignY=62&descColor=E6EDF3&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-  <span style="color:#39FF14;">BISHAL</span>
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/DIGITAL_DESIGN-39FF14?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/RTL-39FF14?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/ASIC-39FF14?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
+  <b>Digital Design • RTL • Computer Architecture • Hardware Acceleration</b>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/SystemVerilog-RTL-39FF14?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Verilog-HDL-39FF14?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/ASIC-Design-39FF14?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/RISC--V-Architecture-39FF14?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/AXI4--Lite-Interconnect-39FF14?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/FPGA-RTL-39FF14?style=flat-square&logoColor=black"/>
-
+  <img src="https://img.shields.io/badge/SystemVerilog-RTL-2E75B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ASIC-Design-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RISC--V-Architecture-F39C12?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AXI4--Lite-Interconnect-27AE60?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FPGA-RTL-2980B9?style=flat-square"/>
 </p>
 
 <p align="center">
